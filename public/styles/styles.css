@@ -1,0 +1,28 @@
+.card {
+  text-align: center;
+  list-style-position: inside;
+  transition: transform 0.3s;}
+  
+  .card:hover {
+    transform: scale(1.1);
+  }
+  nav {
+    background-color: rgba(0, 0, 0, 0.747) !important;
+  }
+ 
+.transparent-background {
+  background-color: rgba(1, 185, 93, 0.288) !important;
+  
+}
+
+
+.card ul {
+  padding-left: 0; }
+
+  .background-image-section {
+    background-image: url('../images/pokk.webp'); 
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+  }
+  
